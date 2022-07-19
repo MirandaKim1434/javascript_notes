@@ -1,4 +1,4 @@
-JAVA SCRIPT NOTES
+# JavaScript Notes
 
 
 JavaScript program is a list of programing statements that are to be executed by a computer.
